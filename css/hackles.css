@@ -1,0 +1,24 @@
+body       {background:#000000; color:#ffffff; font-size:13px;
+            font-weight:normal; line-height:14px; font-family:verdana,lucida,arial,sans-serif}
+td             {color:#ffffff; font-size:13px}
+td.plainLetter {background-color:#cccccc; color:#000000; font-size:13px}
+p              {color:#ffffff; font-size:13px}
+p.caption      {color:#ffffcc}
+p.plainLetter  {background-color:#cccccc; color:#000000; font-size:13px}
+a:link     {color:#99cc66}
+a:visited  {color:#9999ff}
+a:hover    {color:#ffff00; text-decoration:none; cursor:hand}
+font.caption     {color:#ffffcc}
+font.inactive    {color:#ffffff}
+font.note        {color:#ff6633}
+font.error       {color:#ff0033}
+font.small       {font-size:11px}
+font.bar         {color:#99cc66; font-weight:bold}
+h1         {font-size:18px; color:#6699cc}
+h2         {font-size:16px; color:#6699cc}
+h3         {font-size:14px; color:#6699cc}
+h4         {font-size:13px; color:#6699cc}
+h5         {font-size:13px; color:#6699cc}
+h6         {font-size:13px; color:#6699cc}
+h7         {font-size:13px; color:#6699cc}
+tr.header  {background-color:#336600}
