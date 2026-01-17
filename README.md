@@ -1,2 +1,5 @@
 # hackles.org
-Hackles comic strip archive—static HTML with per-strip pages and index.
+
+Static reconstruction of the Hackles strips archive.
+
+Hosted at: https://hackles-org.pages.dev/
